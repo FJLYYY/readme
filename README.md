@@ -1,2 +1,6 @@
 # readme
 README
+HELLO
+DON'T READ
+ME
+NOT
